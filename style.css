@@ -292,7 +292,8 @@ a {
         opacity: 0.5;
     }
     #center-image {
-        width: 6%; 
+        width: 9%;
+        height: 40px;
         opacity: 0.5;  
     }
     #center-image:hover {
